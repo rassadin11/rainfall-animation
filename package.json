@@ -1,0 +1,23 @@
+{
+  "name": "react-rainfall-animation",
+  "version": "0.1.0",
+  "description": "Simple react reainfall animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rassadin11/rainfall-animation.git"
+  },
+  "keywords": [
+    "rain",
+    "animation"
+  ],
+  "author": "Artyom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rassadin11/rainfall-animation/issues"
+  },
+  "homepage": "https://github.com/rassadin11/rainfall-animation#readme"
+}
