@@ -1,6 +1,6 @@
 {
   "name": "react-rainfall-animation",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Simple react reainfall animation",
   "main": "index.js",
   "scripts": {
