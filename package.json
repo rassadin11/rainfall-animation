@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/rassadin11/rainfall-animation/issues"
   },
-  "homepage": "https://github.com/rassadin11/rainfall-animation#readme"
+  "homepage": "https://github.com/rassadin11/rainfall-animation#readme",
+  "dependencies": {
+    "@types/react": "^17.0.38",
+    "typescript": "^4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.7"
+  }
 }
