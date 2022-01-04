@@ -8,3 +8,4 @@ npm i react-rainfall-animation
 
 ## Get Started
 
+very soon

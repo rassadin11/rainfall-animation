@@ -34,4 +34,4 @@ const Rainfall = ({ dropletsAmount }) => {
     )
 };
 
-export default Rainfall;
+module.exports = Rainfall
