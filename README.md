@@ -109,5 +109,5 @@ Amplitude is the number of pixels each drop will rotate. But it's not enough.
 	}
 }
 ``` 
-**Warning: in animation, result positionX must be the opposite number from amplitude**
+**Warning: in animation, result positionX must be the opposite number from amplitude**<br>
 Happy hacking =)
