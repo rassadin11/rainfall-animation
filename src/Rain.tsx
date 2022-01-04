@@ -38,4 +38,4 @@ const Rainfall = ({ dropletsAmount }: Props) => {
     )
 };
 
-module.exports = Rainfall
+export default Rainfall

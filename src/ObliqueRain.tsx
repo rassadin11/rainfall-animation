@@ -39,4 +39,4 @@ const ObliqueRain = ({ dropletsAmount, amplitude }: Props) => {
     )
 };
 
-module.exports = ObliqueRain
+export default ObliqueRain
