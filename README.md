@@ -12,11 +12,11 @@ import  Rainfall  from  'react-rainfall-animation/src/Rain'
 
 function  App() {
   return (
-	<div className="App">
-	  <div id="Rain">
-		<Rainfall  dropletsAmount={200}  />
-	  </div>
-	</div>
+    <div className="App">
+      <div id="Rain">
+        <Rainfall  dropletsAmount={200}  />
+      </div>
+    </div>
   );
 }
 ``` 
@@ -67,8 +67,8 @@ function  App() {
     <div  className="App">
       <div  id="Rain">
         <ObliqueRain  dropletsAmount={200}  amplitude={400}  />
-	  </div>
-	</div>
+      </div>
+    </div>
   );
 }
 ``` 
